@@ -1,0 +1,14 @@
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\bin\Debug\net9.0\komis_samochodowy.exe
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\bin\Debug\net9.0\komis_samochodowy.deps.json
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\bin\Debug\net9.0\komis_samochodowy.runtimeconfig.json
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\bin\Debug\net9.0\komis_samochodowy.dll
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\bin\Debug\net9.0\komis_samochodowy.pdb
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.AssemblyInfoInputs.cache
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.AssemblyInfo.cs
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.csproj.CoreCompileInputs.cache
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.dll
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\refint\komis_samochodowy.dll
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.pdb
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\komis_samochodowy.genruntimeconfig.cache
+C:\Users\patry\RiderProjects\komis_samochodowy\komis_samochodowy\obj\Debug\net9.0\ref\komis_samochodowy.dll

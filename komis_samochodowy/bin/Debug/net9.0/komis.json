@@ -1,0 +1,26 @@
+[
+  {
+    "$type": "passenger",
+    "NumberOfSeats": 5,
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "Year": 2022,
+    "Price": 90000
+  },
+  {
+    "$type": "passenger",
+    "NumberOfSeats": 5,
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "Year": 2022,
+    "Price": 90000
+  },
+  {
+    "$type": "passenger",
+    "NumberOfSeats": 5,
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "Year": 2022,
+    "Price": 90000
+  }
+]
